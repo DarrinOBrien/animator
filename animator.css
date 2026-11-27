@@ -212,7 +212,7 @@ html, body { width: 100%; height: 100%; overflow: hidden; }
   font: inherit;
 }
 .slider-label { color: #8a9aaa; }
-.slider input { width: 140px; accent-color: #cfe3ff; }
+.slider input { width: 110px; accent-color: #cfe3ff; }
 .slider-value {
   min-width: 3.5em;
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
